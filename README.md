@@ -40,7 +40,6 @@ cd shell-emulator
 text
 ```
 shell-emulator/
-├── .gitignore          # Git ignore file
 ├── README.md           # Документация проекта
 └── src/
     └── shell.py        # Основной исполняемый файл
