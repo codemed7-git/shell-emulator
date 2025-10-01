@@ -1,0 +1,6 @@
+# Startup script 1
+echo "Starting shell emulator"
+conf-dump
+ls -la
+pwd
+echo "Script 1 completed"

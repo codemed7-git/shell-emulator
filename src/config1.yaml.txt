@@ -1,0 +1,2 @@
+vfs_path: "/home/user/vfs1"
+startup_script: "script1.txt"

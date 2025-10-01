@@ -1,0 +1,2 @@
+vfs_path: "/opt/custom/vfs"
+startup_script: "script2.txt"

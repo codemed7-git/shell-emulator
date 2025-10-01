@@ -1,0 +1,7 @@
+# Startup script 2
+echo "This is script 2"
+conf-dump
+cd /tmp
+ls
+exit
+echo "This line should not be executed"
