@@ -42,5 +42,4 @@ text
 shell-emulator/
 ├── README.md           # Документация проекта
 └── src/
-    └── shell.py        # Основной исполняемый файл
 ```
